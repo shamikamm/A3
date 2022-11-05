@@ -10,17 +10,34 @@ a4.txt  downloaded_tweets_extend_nolf2.tsv  Ws8.txt
 ]0;shamika@sjsu:/mnt/scratch/shamika[shamika@sjsu shamika]$ cd a3/
 ]0;shamika@sjsu:/mnt/scratch/shamika/a3[shamika@sjsu a3]$ ls
 downloaded_tweets_extend_nolf2.tsv  downloaded_tweets_extend_original_nolf2.tsv
-]0;shamika@sjsu:/mnt/scratch/shamika/a3[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ head downloaded_tweets_extend_nolf2.tsv 
-id	author	date	hashtags	referenced	in_reply_to_user_id	public_metrics	text_nolf
-1520543208614334465	308045021	2022-04-30 23:18:45+00:00	awesomePeopleOnTwitter				"On top of the chocolate, @benjean2 also included these for my Spanish learning child. I have another child going into Spanish for 2 years and these books, lovingly given, will be out to good use. I hope my kids will be worthy of her kindness. ❤️ #awesomePeopleOnTwitter https://t.co/rGiSjqZXoe"
-1520503332246376448	308045021	2022-04-30 20:40:18+00:00	"journalism,NPR"	[<ReferencedTweet id=1513654494504136709 type=retweeted]			RT @HPM_ChristinaL: Really proud of our reporters. Yet another recognition of their work. Way to go! #journalism #NPR #AwardWinningJournali…
-1520503283470815232	308045021	2022-04-30 20:40:07+00:00		[<ReferencedTweet id=1513774168348704770 type=retweeted]			RT @HPM_ChristinaL: “We as a society have reached a very ugly place where empathy is a foreign concept and where we refuse to view professi…
-1520168272896962562	308045021	2022-04-29 22:28:54+00:00	"LC,exercise"	[<ReferencedTweet id=1520168270283915264 type=replied_to]	308045021		Workouts &amp; ample sleep. Sigh….this is great news and bad. Maybe I should switch to chi gong or pure yoga. Biking can be 2x’s/week. Lots to think abt. But I’m happier wo the inflammation induced pain. Hopefully my appt w a rheumatologist will yield answers #LC #exercise
-1520053412968210432	308045021	2022-04-29 14:52:29+00:00	buddhism				This section is very profound. Many atrocities were committed in the name of “god”. Could this be another reason that no wars was fought in the name of Buddha? #buddhism https://t.co/I6XwhH9wnj
-1520044444204032001	308045021	2022-04-29 14:16:51+00:00	buddhism				"I took a break from the book Imperial Reckoning, to reconnect w presence and grounding. Human suffering &amp; violence can rob me of peace &amp; balance. My new favorite book is this ..:: #buddhism https://t.co/GNoR5ZFhVs"
-1519870977311715328	308045021	2022-04-29 02:47:33+00:00	obgyntwitter	[<ReferencedTweet id=1519864927997075458 type=retweeted]			RT @falnyx: I sadly cannot apply to this but if you are an obgyn applicant that went unmatched and do not require visa #obgyntwitter #obgyn…
-1519788687957049344	308045021	2022-04-28 21:20:34+00:00	busymom				"Day 4 of no exercise and bilateral hand inflammation has remained the same. Sighhhhhhh…  oh well. I wish I could say that I’ve been taking it easy, but a busy mom is never out of things to do around the house. #busymom https://t.co/d2M4CGiiPa"
-1519770137024471040	308045021	2022-04-28 20:06:51+00:00		[<ReferencedTweet id=1519742972186800130 type=retweeted]			"RT @YesWeCan4Us: @joncoopertweets ICYMI: Former Supreme Court Justice Kennedy’s son, close with Ivanka Trump &amp; Jared Kushner, helped Trump…"
+]0;shamika@sjsu:/mnt/scratch/shamika/a3[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ head downloaded_tweets_extend_nolf2.tsv 
+id	author	date	hashtags	referenced	in_reply_to_user_id	public_metrics	text_nolf
+
+1520543208614334465	308045021	2022-04-30 23:18:45+00:00	awesomePeopleOnTwitter				"On top of the chocolate, @benjean2 also included these for my Spanish learning child. I have another child going into Spanish for 2 years and these books, lovingly given, will be out to good use. I hope my kids will be worthy of her kindness. ❤️ #awesomePeopleOnTwitter https://t.co/rGiSjqZXoe"
+
+1520503332246376448	308045021	2022-04-30 20:40:18+00:00	"journalism,NPR"	[<ReferencedTweet id=1513654494504136709 type=retweeted]			RT @HPM_ChristinaL: Really proud of our reporters. Yet another recognition of their work. Way to go! #journalism #NPR #AwardWinningJournali…
+
+1520503283470815232	308045021	2022-04-30 20:40:07+00:00		[<ReferencedTweet id=1513774168348704770 type=retweeted]			RT @HPM_ChristinaL: “We as a society have reached a very ugly place where empathy is a foreign concept and where we refuse to view professi…
+
+1520168272896962562	308045021	2022-04-29 22:28:54+00:00	"LC,exercise"	[<ReferencedTweet id=1520168270283915264 type=replied_to]	308045021		Workouts &amp; ample sleep. Sigh….this is great news and bad. Maybe I should switch to chi gong or pure yoga. Biking can be 2x’s/week. Lots to think abt. But I’m happier wo the inflammation induced pain. Hopefully my appt w a rheumatologist will yield answers #LC #exercise
+
+1520053412968210432	308045021	2022-04-29 14:52:29+00:00	buddhism				This section is very profound. Many atrocities were committed in the name of “god”. Could this be another reason that no wars was fought in the name of Buddha? #buddhism https://t.co/I6XwhH9wnj
+
+1520044444204032001	308045021	2022-04-29 14:16:51+00:00	buddhism				"I took a break from the book Imperial Reckoning, to reconnect w presence and grounding. Human suffering &amp; violence can rob me of peace &amp; balance. My new favorite book is this ..:: #buddhism https://t.co/GNoR5ZFhVs"
+
+1519870977311715328	308045021	2022-04-29 02:47:33+00:00	obgyntwitter	[<ReferencedTweet id=1519864927997075458 type=retweeted]			RT @falnyx: I sadly cannot apply to this but if you are an obgyn applicant that went unmatched and do not require visa #obgyntwitter #obgyn…
+
+1519788687957049344	308045021	2022-04-28 21:20:34+00:00	busymom				"Day 4 of no exercise and bilateral hand inflammation has remained the same. Sighhhhhhh…  oh well. I wish I could say that I’ve been taking it easy, but a busy mom is never out of things to do around the house. #busymom https://t.co/d2M4CGiiPa"
+
+1519770137024471040	308045021	2022-04-28 20:06:51+00:00		[<ReferencedTweet id=1519742972186800130 type=retweeted]			"RT @YesWeCan4Us: @joncoopertweets ICYMI: Former Supreme Court Justice Kennedy’s son, close with Ivanka Trump &amp; Jared Kushner, helped Trump…"
+
 ]0;shamika@sjsu:/mnt/scratch/shamika/a3[shamika@sjsu a3]$ grep "replied_to" downloaded_tweets_extend_nolf2.tsv > replied_to.txt
 ]0;shamika@sjsu:/mnt/scratch/shamika/a3[shamika@sjsu a3]$ awk -F "\t" {print $6,$2}' replied_to.txt |sort -n > directional_graph.txt
 > ^C
@@ -171,16 +188,26 @@ gnuplot> exit
 directional_graph.txt               downloaded_tweets_extend_original_nolf2.tsv  p2.txt          reply_cluster.txt
 downloaded_tweets_extend_nolf2.tsv  graph.txt                                    replied_to.txt
 ]0;shamika@sjsu:/mnt/scratch/shamika/a3[shamika@sjsu a3]$ head replied_to.txt 
-1520168272896962562	308045021	2022-04-29 22:28:54+00:00	"LC,exercise"	[<ReferencedTweet id=1520168270283915264 type=replied_to]	308045021		Workouts &amp; ample sleep. Sigh….this is great news and bad. Maybe I should switch to chi gong or pure yoga. Biking can be 2x’s/week. Lots to think abt. But I’m happier wo the inflammation induced pain. Hopefully my appt w a rheumatologist will yield answers #LC #exercise
-1518605841624190976	308045021	2022-04-25 15:00:21+00:00	"TakingABreak,exercise"	[<ReferencedTweet id=1518605836607799296 type=replied_to]	308045021		Or will this be me by the end of the week? We’ll see. 😬😬 #TakingABreak #exercise https://t.co/XuT110Ht5R
-1516610008082960389	308045021	2022-04-20 02:49:37+00:00	authenticChineseFood	[<ReferencedTweet id=1516610006992535552 type=replied_to]	308045021		"Over cooked. As U can see from my picture, the green onions has a vibrant green &amp; just a tad softer from hard. Coated in sauce. Remember to add tiny bits of water as U cook, to make sure the chow fun doesn’t stick to the pan &amp; remains soft.  Enjoy! #authenticChineseFood"
-1516601473219629056	308045021	2022-04-20 02:15:42+00:00	MyBigFatGreekWedding	[<ReferencedTweet id=1516408716442038272 type=replied_to]	42052422		@NiaVardalos You Persevered ..! #MyBigFatGreekWedding is one of my hubby’s favorite films. Keep writing. Keep believing in yourself. Congrats on ur persistence!
-1513250402719916044	308045021	2022-04-10 20:19:45+00:00	buddhism	[<ReferencedTweet id=1513250400845152258 type=replied_to]	308045021		"He’s followed, embraced total rejection or annihilation of the self…I rather prefer Gotama’s approach. It brings more compRRRRRRion &amp; empathy rather than total removal humanity. #buddhism"
-1512981602254655488	308045021	2022-04-10 02:31:38+00:00	"LC,COVID"	[<ReferencedTweet id=1512981600929202181 type=replied_to]	308045021		"It still doesn't take away the level of concern over it. After all this time, I thought I was spared from most of it...but guess not. I'm hoping this won't be a regular thing...cause it was freaky. The both times it happened, was when I was falling asleep. #LC #COVID"
-1512061808277819399	308045021	2022-04-07 13:36:42+00:00	"Tired,EndThisNightmare,COVID"	[<ReferencedTweet id=1512061807225188355 type=replied_to]	308045021		Get me out of this hell….I have LC &amp; don’t want to get infected again…nor would I want that for my family. Would the DOJ please hold the orange RRRRRR &amp; his minions accountable? So that they’re not out there spreading lies??? #Tired #EndThisNightmare #COVID
-1511160794154680322	308045021	2022-04-05 01:56:23+00:00	"thoughts,democracy"	[<ReferencedTweet id=1511160792506421252 type=replied_to]	308045021		"thoughts I've been mulling over for a while now...the frenzy of the religious right is very concerning, and if we STILL don't vote....I fear our country will see a very dark future.  #thoughts #democracy"
-1509740841056841730	308045021	2022-04-01 03:54:00+00:00	"latenightthoughts,beauty"	[<ReferencedTweet id=1509740840142450688 type=replied_to]	308045021		It’s amazing how happy I am. My heart is full. My life is full.   Goodnight. ❤️  #latenightthoughts #beauty
-1508410802474303494	308045021	2022-03-28 11:48:54+00:00	"MyThoughts,NoReasonForViolence"	[<ReferencedTweet id=1508410801144668167 type=replied_to]	308045021		"Bc She was rude or said something offensive to anger or annoy him. Some jokes r ok while some go too far. In any event, I believe this should’ve been handled more diplomatically. #MyThoughts #NoReasonForViolence"
+1520168272896962562	308045021	2022-04-29 22:28:54+00:00	"LC,exercise"	[<ReferencedTweet id=1520168270283915264 type=replied_to]	308045021		Workouts &amp; ample sleep. Sigh….this is great news and bad. Maybe I should switch to chi gong or pure yoga. Biking can be 2x’s/week. Lots to think abt. But I’m happier wo the inflammation induced pain. Hopefully my appt w a rheumatologist will yield answers #LC #exercise
+
+1518605841624190976	308045021	2022-04-25 15:00:21+00:00	"TakingABreak,exercise"	[<ReferencedTweet id=1518605836607799296 type=replied_to]	308045021		Or will this be me by the end of the week? We’ll see. 😬😬 #TakingABreak #exercise https://t.co/XuT110Ht5R
+
+1516610008082960389	308045021	2022-04-20 02:49:37+00:00	authenticChineseFood	[<ReferencedTweet id=1516610006992535552 type=replied_to]	308045021		"Over cooked. As U can see from my picture, the green onions has a vibrant green &amp; just a tad softer from hard. Coated in sauce. Remember to add tiny bits of water as U cook, to make sure the chow fun doesn’t stick to the pan &amp; remains soft.  Enjoy! #authenticChineseFood"
+
+1516601473219629056	308045021	2022-04-20 02:15:42+00:00	MyBigFatGreekWedding	[<ReferencedTweet id=1516408716442038272 type=replied_to]	42052422		@NiaVardalos You Persevered ..! #MyBigFatGreekWedding is one of my hubby’s favorite films. Keep writing. Keep believing in yourself. Congrats on ur persistence!
+
+1513250402719916044	308045021	2022-04-10 20:19:45+00:00	buddhism	[<ReferencedTweet id=1513250400845152258 type=replied_to]	308045021		"He’s followed, embraced total rejection or annihilation of the self…I rather prefer Gotama’s approach. It brings more compRRRRRRion &amp; empathy rather than total removal humanity. #buddhism"
+
+1512981602254655488	308045021	2022-04-10 02:31:38+00:00	"LC,COVID"	[<ReferencedTweet id=1512981600929202181 type=replied_to]	308045021		"It still doesn't take away the level of concern over it. After all this time, I thought I was spared from most of it...but guess not. I'm hoping this won't be a regular thing...cause it was freaky. The both times it happened, was when I was falling asleep. #LC #COVID"
+
+1512061808277819399	308045021	2022-04-07 13:36:42+00:00	"Tired,EndThisNightmare,COVID"	[<ReferencedTweet id=1512061807225188355 type=replied_to]	308045021		Get me out of this hell….I have LC &amp; don’t want to get infected again…nor would I want that for my family. Would the DOJ please hold the orange RRRRRR &amp; his minions accountable? So that they’re not out there spreading lies??? #Tired #EndThisNightmare #COVID
+
+1511160794154680322	308045021	2022-04-05 01:56:23+00:00	"thoughts,democracy"	[<ReferencedTweet id=1511160792506421252 type=replied_to]	308045021		"thoughts I've been mulling over for a while now...the frenzy of the religious right is very concerning, and if we STILL don't vote....I fear our country will see a very dark future.  #thoughts #democracy"
+
+1509740841056841730	308045021	2022-04-01 03:54:00+00:00	"latenightthoughts,beauty"	[<ReferencedTweet id=1509740840142450688 type=replied_to]	308045021		It’s amazing how happy I am. My heart is full. My life is full.   Goodnight. ❤️  #latenightthoughts #beauty
+
+1508410802474303494	308045021	2022-03-28 11:48:54+00:00	"MyThoughts,NoReasonForViolence"	[<ReferencedTweet id=1508410801144668167 type=replied_to]	308045021		"Bc She was rude or said something offensive to anger or annoy him. Some jokes r ok while some go too far. In any event, I believe this should’ve been handled more diplomatically. #MyThoughts #NoReasonForViolence"
+
 ]0;shamika@sjsu:/mnt/scratch/shamika/a3[shamika@sjsu a3]$ awk -F "\t" '{print $4}' replies_to.txt |sort |uniq -c | sort -n |tail -30 > hashtags .txt
 tail: cannot open '.txt' for reading: No such file or directory
 awk: fatal: cannot open file `replies_to.txt' for reading (No such file or directory)
@@ -219,6 +246,38 @@ downloaded_tweets_extend_nolf2.tsv  graph.txt                                   
     106 BoycottATP
     106 COVID19
     832 "FBPE,FollowBackFriday"
-]0;shamika@sjsu:/mnt/scratch/shamika/a3[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ [K[shamika@sjsu a3]$ exit
+]0;shamika@sjsu:/mnt/scratch/shamika/a3[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ 
+[K[shamika@sjsu a3]$ exit
 
 Script done on 2022-11-04 21:12:56-04:00
+5) The hashtage that are different from this assignment and the prvious assignment are BA2, Ottawa, and Partygate.
